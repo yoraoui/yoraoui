@@ -53,10 +53,6 @@ My work focuses on developing algorithms for autonomous mobile robots:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Research%20is%20to%20see%20what%20everybody%20else%20has%20seen%2C%20and%20to%20think%20what%20nobody%20else%20has%20thought." />
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/yoraoui/count.svg" alt="Visitor Count" />
-</p>
-
 <p align="right">
   2026 © All Rights Reserved | Dr. Younès Raoui
 </p>
