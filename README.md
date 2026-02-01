@@ -1,44 +1,50 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=B59B82&center=true&vCenter=true&width=750&lines=Dr.+Younès+Raoui;Neuro-robotics+%26+Control;Solar+Tracking+Robotics;Assistant+Professor+@+UM5+Rabat;Passion+Fuels+Purpose!" alt="Dr. Younès Raoui" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=B59B82&center=true&vCenter=true&width=750&lines=Dr.+Younès+Raoui;Assistant+Professor+at+UM5+Rabat;Neuro-robotics+Researcher;Passion+Fuels+Purpose!" alt="Dr. Younès Raoui" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b735b&height=120&section=header&text=Robotics%20&%20Control%20Research&fontSize=30&animation=fadeIn" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b735b&height=120&section=header&text=Welcome%20to%20my%20Research%20Lab&fontSize=30&animation=fadeIn" alt="Header Wave" />
 </p>
 
 ## 👨‍🏫 Biography
-I am an **Assistant Professor** at the Faculty of Sciences (FSR), Mohammed V University in Rabat. My research focuses on **Neuro-robotics** and **Autonomous Systems**, applying advanced control to both mobile robots and solar energy orientation.
+I am an **Assistant Professor** at the Faculty of Sciences (FSR), Mohammed V University in Rabat, Morocco. My research focuses on bridging biological intelligence and robotics, specifically in **Neuro-robotics**, **SLAM**, and **Optimal Control**.
 
-* 📚 **Editorial:** Associate Editor for **IEEE Robotics and Automation Letters**.
-* 🏛 **Professional:** Member of the **European Neural Network Society**.
-* 🔭 **Impact:** 15+ research projects completed in Robotics and AI.
-
----
-
-## 🔬 Featured Research: Robotics & Control Systems
-*Direct links to original publications and journals:*
-
-### ☀️ Solar Energy Robotics & Tracking
-* **[Orientation system of solar panels based on a robot manipulator](https://www.icrepq.com/icrepq'11/640-chaib.pdf)** (RE&PQJ)  
-  *Using 2-DOF robotic manipulators to optimize solar capture by 51%.*
-* **[Heliostat orientation system using a PLC based robot manipulator](https://www.researchgate.net/publication/261320631_Heliostat_orientation_system_using_a_PLC_based_robot_manipulator)** (ICINCO)  
-  *Control and implementation of high-accuracy solar tracking via PLC.*
-* **[Comparing Determinist and Probabilistic Methods for RFID-Based Self-Localization](https://www.scitepress.org/Link.aspx?doi=10.5220/0003491303250328)** (SciTePress)  
-  *Research into localization techniques for autonomous robotic platforms.*
-
-### 🧠 Neuro-robotics & Navigation
-* **[Accurate Robot Navigation Using Visual Invariant Features and Dynamic Neural Fields](https://ijrcs.uai.ac.id/index.php/ijrcs/article/view/364)** (IJRCS 2024)
-* **[Simultaneous Localization and Mapping of a Mobile Robot With Stereo Camera Using ORB Features](https://www.jamris.org/index.php/JAMRIS/article/view/791)** (JAMRIS 2024)
-* **[NeoSLAM: Neural Object SLAM for Visual Topological Mapping](https://link.springer.com/chapter/10.1007/978-3-031-15934-3_37)** (Springer/ICANN 2022)
-* **[Bio-inspired Navigation for Mobile Robot in Indoor Environment](https://www.researchgate.net/publication/305330368_Bio-inspired_navigation_for_mobile_robot_in_indoor_environment)** (ResearchGate)
-
-### ⚙️ Control & Collision Avoidance
-* **[Human-robot collision avoidance with RFID sensors using fuzzy logic and EKF](http://www.m-hikari.com/ams/ams-2013/ams-113-116-2013/raouiAMS113-116-2013.pdf)** (Applied Mathematical Sciences)
-* **[New approach for a laser-based topological navigation](https://ieeexplore.ieee.org/document/7547514)** (IEEE Xplore)
+* 🌍 **Collaborations:** Visiting appointments at *Knowledge Technology Lab* (Hamburg) and *INSERM* (France).
+* 📚 **Editorial Roles:** Associate Editor for **IEEE Robotics and Automation Letters**.
+* 🏅 **Experience:** 10+ years in research with 15+ completed projects.
 
 ---
 
-## 📊 Live GitHub Analytics
+## 🔬 Research & Projects
+My work focuses on developing algorithms for autonomous mobile robots:
+- **Neuro-robotics:** Brain-inspired navigation systems (e.g., NeoSLAM).
+- **Control Theory:** Nonlinear and optimal control for mobility.
+- **Modern AI:** LLM-based navigation and reinforcement learning for robot exploration.
+
+[**Explore my research publications ↗️**](https://www.raouiyounes.com/researches)
+
+---
+
+## 🛠️ Technical Toolkit & Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+</p>
+
+> **Expertise:** Computer Vision • Machine Learning • Deep Learning • Gazebo & CoppeliaSim • Optimization & Statistics.
+
+---
+
+## 🎓 Academic Background
+* **Doctorate (PhD) in Robotics & AI** | *UM5 Rabat & LAAS-CNRS (INPT Toulouse)*
+* **Master's in Computer Science & Telecom** | *UM5 Rabat & INPT*
+* **Maîtrise Sciences et Techniques** | *FST Settat*
+
+---
+
+## 📊 GitHub Analytics (Dynamic)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=B59B82&text_color=ffffff&icon_color=B59B82&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=B59B82&text_color=ffffff&hide_border=true" height="150" />
@@ -46,16 +52,14 @@ I am an **Assistant Professor** at the Faculty of Sciences (FSR), Mohammed V Uni
 
 ---
 
-## 🎓 Academic History
-* **PhD in Robotics & AI** | LAAS-CNRS (France) & UM5 (Morocco)
-* **Master's in CS & Telecom** | INPT & UM5 Rabat
-* **MST in IEEA** | FST Settat
+## 🤝 Connect with Me
+- 🌐 **Official Website:** [raouiyounes.com](https://www.raouiyounes.com/)
+- 📧 **Institutional Email:** [y.raoui@um5r.ac.ma](mailto:y.raoui@um5r.ac.ma)
+- 🏢 **Office:** Physics Department, Faculty of Sciences, Rabat.
 
----
-
-## 🤝 Connect
-- 🌐 [Official Portfolio](https://www.raouiyounes.com/) | 📧 [y.raoui@um5r.ac.ma](mailto:y.raoui@um5r.ac.ma)
-- 📍 **Office:** Physics Department, Faculty of Sciences, Rabat.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Research%20is%20to%20see%20what%20everybody%20else%20has%20seen%2C%20and%20to%20think%20what%20nobody%20else%20has%20thought." />
+</p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
