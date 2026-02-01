@@ -1,5 +1,8 @@
-# Hi there, I'm Dr. Younès Raoui 👋 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Dr.+Younès+Raoui;Assistant+Professor+at+UM5+Rabat;Neuro-robotics+Researcher;Passion+Fuels+Purpose!" alt="Typing SVG" />
+</p>
 
+---
 > **Assistant Professor | Neuro-robotics & Autonomous Systems Researcher**
 > *Passion Fuels Purpose!*
 
