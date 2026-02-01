@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=B59B82&center=true&vCenter=true&width=750&lines=Dr.+Younès+Raoui;Assistant+Professor+at+UM5+Rabat;Neuro-robotics+Researcher;Passion+Fuels+Purpose!" alt="Dr. Younès Raoui" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=B59B82&center=true&vCenter=true&width=750&lines=Dr.+Younès+Raoui;Associate+Professor+at+UM5+Rabat;Neuro-robotics+Researcher;Passion+Fuels+Purpose!" alt="Dr. Younès Raoui" />
 </p>
 
 <p align="center">
