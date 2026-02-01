@@ -44,14 +44,6 @@ My work focuses on developing algorithms for autonomous mobile robots:
 
 ---
 
-## 📊 GitHub Analytics (Dynamic)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=B59B82&text_color=ffffff&icon_color=B59B82&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=B59B82&text_color=ffffff&hide_border=true" height="150" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 - 🌐 **Official Website:** [raouiyounes.com](https://www.raouiyounes.com/)
 - 📧 **Institutional Email:** [y.raoui@um5r.ac.ma](mailto:y.raoui@um5r.ac.ma)
