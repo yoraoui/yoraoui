@@ -9,7 +9,7 @@
 ## 👨‍🏫 Biography
 I am an **Associate Professor** at the Faculty of Sciences (FSR), Mohammed V University in Rabat, Morocco. My research focuses on bridging biological intelligence and robotics, specifically in **Neuro-robotics**, **SLAM**, and **Optimal Control**.
 
-* 🌍 **Collaborations:** Visiting appointments at *Knowledge Technology Lab* (Hamburg, Germany) and * Marine Robotics Group, CSAIL MIT* (USA).
+* 🌍 **Collaborations:** Visiting appointments at *Knowledge Technology Lab* (Hamburg, Germany) and *Marine Robotics Group, CSAIL MIT* (USA).
 * 📚 **Editorial Roles:** Associate Editor for **IEEE Robotics and Automation Letters**.
 * 🏅 **Experience:** 10+ years in research with 15+ completed projects.
 
