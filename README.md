@@ -1,68 +1,49 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Dr.+Younès+Raoui;Assistant+Professor+at+UM5+Rabat;Neuro-robotics+Researcher;Passion+Fuels+Purpose!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=47A1FF&center=true&vCenter=true&width=700&lines=Dr.+Younès+Raoui;Neuro-robotics+%26+Control;Assistant+Professor+@+UM5;Passion+Fuels+Purpose!" alt="Typing SVG" />
 </p>
 
----
-> **Assistant Professor | Neuro-robotics & Autonomous Systems Researcher**
-> *Passion Fuels Purpose!*
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Welcome%20to%20my%20Research%20Lab&fontSize=30&animation=fadeIn" alt="Header Wave" />
+</p>
 
 ## 👨‍🏫 About Me
-I am an Assistant Professor at the **Faculty of Sciences (FSR)**, Mohammed V University in Rabat, Morocco. My work sits at the intersection of brain-inspired robotics and advanced control systems. 
+I am an **Assistant Professor** at the Faculty of Sciences (FSR), Mohammed V University in Rabat. My research bridges the gap between biological neural networks and robotic control.
 
-* 🌍 **Research Hubs:** Associate Editor for *IEEE Robotics and Automation Letters* | Member of the *European Neural Network Society*.
-* 🏫 **Academic Journey:** PhD co-supervised between UM5 Rabat and LAAS-CNRS (Toulouse, France).
-* 🔬 **Global Collaboration:** Visiting researcher at Knowledge Technology Lab (Hamburg) and INSERM (France).
-
----
-
-## 🚀 Research & Expertise
-My current research focuses on bridging the gap between biological intelligence and robotic autonomy:
-* 🧠 **Neuro-robotics:** Brain-inspired architectures for machine intelligence.
-* 🤖 **Autonomous Navigation:** SLAM, mapping, and path planning for mobile robots.
-* ⚙️ **Control Systems:** Nonlinear and optimal control.
-
-### 📊 Vital Stats
-| 15+ | 10+ |
-| :--- | :--- |
-| **Research Projects Completed** | **Years of Academic Experience** |
+* 🧠 **Specialization:** Neuro-robotics, Autonomous Navigation, and Optimal Control.
+* 🎓 **PhD:** Co-supervision between UM5 Rabat and LAAS-CNRS, Toulouse.
+* 🏛 **Roles:** Associate Editor for *IEEE Robotics and Automation Letters*.
 
 ---
 
 ## 🛠 Technical Toolkit
-### 💻 Programming & Robotics
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-
-### 🧠 AI & Simulation
-* **AI/ML:** Machine Learning, Deep Learning, Optimization & Statistics.
-* **Simulation:** Gazebo, CoppeliaSim.
-* **Methods:** Research Methodology, Analytical Thinking, UML.
-
----
-
-## 📈 GitHub Activities
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Younes Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://img.shields.io/badge/Matlab-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
 ---
 
-## 🎓 Academic Background
-* **PhD in Robotics & AI** | UM5 Rabat & LAAS-CNRS (INPT Toulouse)
-* **M.Sc. in Computer Science & Telecommunications** | UM5 Rabat & INPT
-* **Maîtrise in IEEA** | FST Settat
+## 📊 Live Research Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=47A1FF&text_color=ffffff&icon_color=47A1FF" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=47A1FF&text_color=ffffff" height="150" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
-* 🌐 [Faculty Website/Personal Portfolio](#) 
-* 📫 **Research Collaborations:** Open to international research and PhD supervision inquiries.
-* 🏢 **Office:** Physics Department, Faculty of Sciences, Rabat.
+## 🎓 Academia & Studies
+- **PhD in Robotics & AI** | *LAAS-CNRS (France) & UM5 (Morocco)*
+- **Master's in Computer Science & Telecom** | *INPT & UM5*
+- **Maîtrise Sciences et Techniques** | *FST Settat*
 
 ---
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Research%20is%20to%20see%20what%20everybody%20else%20has%20seen%2C%20and%20to%20think%20what%20nobody%20else%20has%20thought." alt="Quote" />
+</p>
+
+<p align="right">
   2026 © All Rights Reserved | Built with ♡ by QuantumQuillsLabs
 </p>
