@@ -54,7 +54,7 @@ My work focuses on developing algorithms for autonomous mobile robots:
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/yoraoui/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="right">
